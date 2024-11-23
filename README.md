@@ -4,7 +4,7 @@
 
 A SwiftBot (also known as Trilobot) is a Raspberry Pi powered robot used throughout the first year of Computer Science at Brunel University of London.
 
-### This robot featuers:
+### This robot features:
 * 2x front wheel drive, 1x rear castor
 * Four tactile buttons and status LEDs
 * Six-zone RGB underlighting
